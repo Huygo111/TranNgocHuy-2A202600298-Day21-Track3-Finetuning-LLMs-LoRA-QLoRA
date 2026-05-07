@@ -1,0 +1,2 @@
+variant,rank,alpha,target_modules,trainable_params,train_time_min,peak_vram_gb,eval_loss,eval_perplexity
+all_layers_r16,16,32,"q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj",29933568,6.752630094687144,12.702757888,1.4948303699493408,4.458580179516097
